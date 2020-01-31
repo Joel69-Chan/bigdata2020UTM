@@ -24,12 +24,24 @@
 ### MapReduce
   #### It is a programming model that allows and supports the management of parallel processes
 ### Hadoop HDFS
-  #### 
+  ####  It is a high capacity data processing system
 ### Apache Spark
-  #### 
-### Arquitechture Lambda & Kappa (describe differences)
-  #### 
+  #### It is an open source programming model for storing and executing applications
+
 
 ## Github commands
-" $ git init " 
-" Turn an existing directory into a git repository "
+#### $ git init: Create a new repository
+
+#### $ git add [file]: Add a file to the repository to be saved
+
+#### $ git log: Shows the versions of the commits made in the current repository
+
+#### $ git reset [confirmation]: Reverses an erroneous confirmation and retains changes made locally
+
+#### $ git status: Shows all changes made to the repository where it is located
+
+#### $ git diff --estatus: Show file differences between the waiting area and the latest version of the file
+
+#### $ git rm [file]: Deletes the file regardless of whether a previous commit was made0
+
+#### $ git commit -m "[descriptive message]": Back up a previously added file with the "git add [file]" command
